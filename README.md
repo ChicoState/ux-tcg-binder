@@ -4,7 +4,7 @@
 
 ## UX Team Members
 
-* **Alex Nigro(!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **Alex Nigro: https://chicostate.github.io/ux-personal-portfolio-arnigro1099/** - Personas and Scenarios, Sketches and Diagrams, Competitive Analysis, and Full Phase I Report (Executive Summary and Caveats).
 * **Dexter Lemm(!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **Anthony Pecoraro(!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
