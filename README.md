@@ -21,10 +21,26 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Initial research revealed opportunities to disrupt multiple segments by addressing customer needs:
+  *  <ins>High demand for web</ins>: Customers are satisfied with mobile but **also want a web version** to have a **larger screen** to view cards and collections
+  *  <ins>Camera scanning</ins>: Apps have **inconsistent scanning** features and websites **do not have scanning** in general
+  *  <ins>Limited variety of cards</ins>: Majority of other products **specialize in one brand** of trading card game which is **extremely limiting**
+  *  **Visuals** for collections of cards can be **misleading or confusing**.
+  *  **Reluctancy to pay** subscription fee(s) for features
+
+* New personas and scenarios reflect insights of user experience needs:
+  * **Clear and simple** interface that requires very little hints on how to operate
+  * **Seamless scanning** of cards and adding them to collections
+  * **Sharing collections** with other users in order to **connect and share knowledge** with them
+  * **Quick and easy modification** of created collections
+  * **Card recommendations** for collections
+ 
+* Sketches and diagrams illustrate initial concepts:
+  * Clear and concise visual layout for **quick and easy navigation between features**
+  * Create new decks with **custom settings, manual input, and scanning** for maximum user control and flexibility
+  * Extensive library system to **efficiently search through and organize cards**
+  * Interactive collections to **inform the user and guide them** through the process of building a pre-made collection
+  * Robust scanning system that **quickly identifies and returns information** about the card scanned on screen
 
 [Full phase I report](phaseI/)
 
