@@ -5,7 +5,7 @@
 ## UX Team Members
 
 * **Alex Nigro: https://chicostate.github.io/ux-personal-portfolio-arnigro1099/** - Personas and Scenarios, Sketches and Diagrams, Competitive Analysis, and Full Phase I Report (Executive Summary and Caveats).
-* **Dexter Lemm(!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **Dexter Lemm: https://chicostate.github.io/ux-personal-portfolio-bbynoCode** - Personas and Scenarios, Sketches and Diagrams, Competitive Analysis, Heuristic Analysis, and Full Phase I Report (Introduction)
 * **Anthony Pecoraro: https://chicostate.github.io/ux-personal-portfolio-PecoraroAnthony** - Personas and Scenarios, Sketches and Diagrams, Competitive Analysis, Heuristic Analysis, and Full Phase I Report (Findings and Conclusion) 
 
 # User-Centered Design Artifacts
