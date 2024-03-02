@@ -10,7 +10,6 @@ TCG_Binder aims to provide a platform where trading card game players can effort
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
