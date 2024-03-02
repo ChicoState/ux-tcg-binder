@@ -1,6 +1,6 @@
 # TCG Binder
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+TCG_Binder aims to provide a platform where trading card game players can effortlessly manage their physical trading card collections digitally.
 
 ## UX Team Members
 
