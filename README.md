@@ -47,10 +47,12 @@ TCG_Binder aims to provide a platform where trading card game players can effort
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Further research highlighted some key design demands:
+  *  Provide users the ability to **store and view the entirety** of their collection
+  *  Include additional information, such as **price, version, rarity and description** to better match our competitors
+     * Helps us to establish a more favorable **competitve advantage**
+  * <ins>Demand for a simple yet effective user interface</ins>: Customers want only a **few buttons** at maximum to interact with features and to display information
+  * <ins>Organized layout to effectively show page navigation</ins>: Users showed demand for **easily recognizable page transition links or buttons** to be able to quickly locate which feature they want to access
 
 [Full phase II report](phaseII/)
 
