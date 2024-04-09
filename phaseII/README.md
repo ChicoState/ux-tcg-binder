@@ -29,7 +29,13 @@ These questions were designed to pinpoint where user design improvements can be 
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+### Cognitive Walkthroughs
+
+From the CWs produced by the two external UX team members, we discovered that our [card collection page]() was confusing to users. Missing features such as card filtering/categorization, count of cards owned, displaying more cards at once, and a scroll wheel made finding cards difficult for our evaluator. Additionally, we discovered that we lacked any feature to add new cards to the collection page. 
+
+### Informal Feedback
+
+The two questions asked to our fellow Software Engineers provided further suggestions to improve the user experience. For example, giving more visual emphasis to adding new cards rather than searching. Because our app is for card collection, having the add card feature prominent will decrease the time users are scanning over the app. Additionally, we were provided with many suggestions regarding deck features. When a deck was selected, users wanted to see more information such as the top three cards or similar decks. Likewise, feedback suggested that our profile feature was too prominent and our app should rather focus on displaying deck information. Finally, sharing decks with others through a link, QR code, or friend code was desired.
 
 ## Conclusions
 
