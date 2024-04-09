@@ -31,7 +31,7 @@ These questions were designed to pinpoint where user design improvements can be 
 
 ### Cognitive Walkthroughs
 
-From the CWs produced by the two external UX team members, we discovered that our [card collection page]() was confusing to users. Missing features such as card filtering/categorization, count of cards owned, displaying more cards at once, and a scroll wheel made finding cards difficult for our evaluator. Additionally, we discovered that we lacked any feature to add new cards to the collection page. 
+From the CWs produced by the two external UX team members, we discovered that our [card collection page](https://private-user-images.githubusercontent.com/95311436/321001684-f41dbbdb-0308-4717-b1aa-5a4a1069a4e1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI3MDQxODQsIm5iZiI6MTcxMjcwMzg4NCwicGF0aCI6Ii85NTMxMTQzNi8zMjEwMDE2ODQtZjQxZGJiZGItMDMwOC00NzE3LWIxYWEtNWE0YTEwNjlhNGUxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA5VDIzMDQ0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2MmVjMjg5YmZjMWViNTcxODlmNjY3N2I2MTgwNTIxODFkMGJkMTE1MzRiYzU4MDE1YzMzY2ZlZTc4OTk3ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.afBR5OGrQZ3iPJARHB3mdH0oncwWqGhuEtK57bAcvgE) was confusing to users. Missing features such as card filtering/categorization, count of cards owned, displaying more cards at once, and a scroll wheel made finding cards difficult for our evaluator. Additionally, we discovered that we lacked any feature to add new cards to the collection page. 
 
 ### Informal Feedback
 
