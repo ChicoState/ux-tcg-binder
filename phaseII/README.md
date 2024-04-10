@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+TCG_Binder aims to provide a platform where trading card game players can effortlessly manage their physical trading card collections digitally. The focus for this phase of the project has been to refine our product wireframes and to identify any parts of our design that would make our product harder to use. We were able to accomplish these goals by conducting cognitive walkthroughs using personas and scenarios as well as receiving informal feedback from other software engineering teams. 
 
 ## Methods
 
@@ -39,7 +39,7 @@ The two questions asked to our fellow Software Engineers provided further sugges
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+From the cognitive walkthroughs and informal feedback we were able to identify potential issues with our design and make changes to them accordingly. Through the cognitive walkthrough we were able to identify steps in our process that we could simplify and change elements of to make the use of our product more intuitive. With the information that we learned in the informal feedback we were able to identify pieces of our design that were important to the users and improve upon them to provide more information to the user. Overall the information we learned in this phase helped us to refine our product design and connect with our future users.
 
 ## Caveats
 
