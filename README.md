@@ -20,7 +20,7 @@ TCG_Binder aims to provide a platform where trading card game players can effort
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](prototypes/)
+* [Prototype](#)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -66,9 +66,15 @@ TCG_Binder aims to provide a platform where trading card game players can effort
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Our team conducted a usability test with participants (n=6) which yielded these results:
+  *  <ins>Overall, effective and logical organization for navigation and page layouts</ins>: Users unanimously agreed that the **organization** of the app **was satisfactory** (minimal confusing or misleading components)
+  *  <ins>Inclusion of marketplace was unexpected but welcomed</ins>: Users **enjoyed** the prospect of **being able to buy, sell, and add cards** to their collections
+  *  **Sharing** and viewing other users' decks was **fun, enjoyable, and creates a sense of community**
+  *  **Simplistic UI** (user interface) made interactions with the app **intuitive and easy**
+  *  Areas of struggle:
+     * <ins>Adding a card to collection was confusing</ins>: Confusion caused due to **ambiguity of the plus button and "see more" link** (users thought they were the same thing)
+     * **Lack of back button was inconvenient** since users were not able to return to previous page
+     * **Lack of user feedback** made adding and scanning cards confusing
+     * **Hamburger menu missing some links** to important pages
 
 [Full phase III report](phaseIII/)
