@@ -20,7 +20,7 @@ TCG_Binder aims to provide a platform where trading card game players can effort
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](https://www.figma.com/design/OGsohklAzEomPdJfpQy6PZ/Prototype---TCG-Binder?node-id=0-1&t=cjycosupJjQFvzxc-0)
+* [Prototype](https://github.com/ChicoState/ux-tcg-binder/blob/main/phaseIII/Prototypes/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
