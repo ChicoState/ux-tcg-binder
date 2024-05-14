@@ -83,7 +83,7 @@ The debrief section compiles participant's thoughts and opinions about their exp
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1FlTyiP67pJ-ljnRgTW1rIga5I1qpTcU1yYDeksrWwbk/edit?usp=sharing)
 
-### <ins>Quantatative Summary</ins>
+### <ins>Quantatative and Qualitative Summary</ins>
 
 ### Background
 Half of all participants (n=6) reported having prior experience using a TCG application. Although, all participants had some level of experience with TCGs most often as a child. No participants reported currently playing TCGs or collecting cards.
@@ -103,17 +103,14 @@ The means and standard deviations for each task’s ratings are as follows:
 <img width="623" alt="image" src="https://github.com/ChicoState/ux-tcg-binder/assets/84484268/c6148f60-d3ba-4677-a6fe-0e855b87dac5">
 
 * T3 (M=4.5, SD= 0.8366600265)
-  * Almost all of the participants were able to navigate to the "shared collections" page and like a shared deck. Although, one participant ultimately failed to complete this task due to the lack of feedback when liking a shared deck.
+  * Almost all of the participants were able to navigate to the "shared collections" page and like a shared deck. However, one participant ultimately failed to complete this task due to the lack of feedback when liking a shared deck.
  
 <img width="496" alt="image" src="https://github.com/ChicoState/ux-tcg-binder/assets/84484268/27c70a0f-ddd9-49bd-81a9-01cca03bfa60">
 
 * T4 (M= 4.5, SD = 0.5477225575)
-  * All participants found navigating to the market place page and examining the market details of a card simple and intuituve. One participant, however, voiced that the button to take users to the marketplace page was not obvious to the eye due to the bland color palette.
+  * All participants found navigating to the marketplace page and examining the market details of a card simple and intuitive. One participant, however, voiced that the button to take users to the marketplace page was not obvious to the eye due to the bland color palette.
  
 <img width="524" alt="image" src="https://github.com/ChicoState/ux-tcg-binder/assets/84484268/791cedcc-cb6f-45d1-8c53-6ab3b01c8432">
-
-
-### <ins>Qualitative Summary</ins>
 
 ### Debrief 
 Some trends gathered from the feedback of the participants included a desire for a button to take you back to the previous page, more user feedback when submitting a new card or deck, and more vibrant UI colors. Participants especially voiced difficulty with adding new cards to their collection or deck. Due to a lack of feedback from the prototype, participants were confused about whether their card was added or not. 
