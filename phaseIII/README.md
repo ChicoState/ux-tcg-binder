@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+TCG_Binder aims to provide a platform where trading card game players can effortlessly manage their physical trading card collections digitally. The focus for this phase of the project was to study real user interaction with our application. To do this we created a prototype of our application and we created a study protocol that we then used to gather information about our application and how people will use it. 
 
 ## Methods
 
@@ -117,7 +117,7 @@ Some trends gathered from the feedback of the participants included a desire for
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Using our prototype and the study that we ran we were able to gather crucial information about how users interacted with our application. Our study was designed to make the participants interact with different areas of our application and provide feedback on how well we incorporated the different useability principles. During this phase we learned that providing feedback to users is an area that our application can focus on in the future and would greatly improve the user experience. 
 
 ## Caveats
 
