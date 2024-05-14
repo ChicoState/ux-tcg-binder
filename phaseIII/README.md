@@ -6,7 +6,7 @@ TCG_Binder aims to provide a platform where trading card game players can effort
 
 ## Methods
 
-### Usability Test Protocol
+### [Usability Test Protocol](https://github.com/ChicoState/ux-tcg-binder/blob/main/phaseIII/protocol/TCG-Binder%20Usability%20Protocol.pdf)
 
 The protocol consists of three sections: **user background**, **tasks**, and **debrief.** 
 
