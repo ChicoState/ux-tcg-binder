@@ -67,7 +67,8 @@ TCG_Binder aims to provide a platform where trading card game players can effort
 **Executive Summary**
 
 * Our team conducted a usability test with participants (n=6) which yielded these results:
-  *  <ins>Overall, effective and logical organization for navigation and page layouts</ins>: Users unanimously agreed that the **organization** of the app **was satisfactory** (minimal confusing or misleading components)
+  *  <ins>Overall, positive experiences across the board</ins>: Majority of **users expressed positive and satisfactory feelings** after interacting with our prototype
+  *  <ins>Effective and logical organization for navigation and page layouts</ins>: Users unanimously agreed that the **organization** of the app **was satisfactory** (minimal confusing or misleading components)
   *  <ins>Inclusion of marketplace was unexpected but welcomed</ins>: Users **enjoyed** the prospect of **being able to buy, sell, and add cards** to their collections
   *  **Sharing** and viewing other users' decks was **fun, enjoyable, and creates a sense of community**
   *  **Simplistic UI** (user interface) made interactions with the app **intuitive and easy**
