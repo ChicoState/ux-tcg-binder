@@ -8,7 +8,10 @@ TCG_Binder aims to provide a platform where trading card game players can effort
    * Phase I: Personas and Scenarios, Sketches and Diagrams, Competitive Analysis, Heuristic Analysis, and Full Phase I Report (Executive Summary and Caveats)
    * Phase 2: Cognitive Walkthroughs, Informal Feedback, Wireframe, and Full Phase II Report (Executive Summary and Caveats)
    * Phase 3: Usability Test Protocol, Prototype, and Full Phase III Report (Executive Summary and Caveats)
-* **Dexter Lemm: https://chicostate.github.io/ux-personal-portfolio-bbynoCode** - Personas and Scenarios, Sketches and Diagrams, Competitive Analysis, Heuristic Analysis, and Full Phase I Report (Introduction)
+* **Dexter Lemm: https://chicostate.github.io/ux-personal-portfolio-bbynoCode**
+   * Phase I: Personas and Scenarios, Sketches and Diagrams, Competitive Analysis, Heuristic Analysis, and Full Phase I Report (Introduction)
+   * Phase 2: Cognitive Walkthroughs, Informal Feedback, Wireframe, and Full Phase II Report (Introduction and Conclusion)
+   * Phase 3: Usability Test Protocol, Prototype, and Full Phase III Report (Introduction and Conclusion)
 * **Anthony Pecoraro: https://chicostate.github.io/ux-personal-portfolio-PecoraroAnthony**
    * Phase I: Personas and Scenarios, Sketches and Diagrams, Competitive Analysis, Heuristic Analysis, and Full Phase I Report (Methods, Findings and Conclusions)
    * Phase 2: Cognitive Walkthroughs, Informal Feedback, Wireframe, and Full Phase II Report (Methods, Findings)
